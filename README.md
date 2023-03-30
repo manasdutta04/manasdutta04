@@ -1,3 +1,4 @@
+![logo](https://github.com/manasdutta04/manasdutta04/blob/main/github.png)
 <h1 align="center">Hi 👋, I'm Manas Dutta</h1>
 <h3 align="center">Student at Techno India Banipur 244 || CSE || TECB'26</h3>
 
