@@ -44,6 +44,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasdutta04&" alt="manasdutta04" /></p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manasdutta04&theme=alduin&no-frame=false&no-bg=true&margin-w=4)
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
