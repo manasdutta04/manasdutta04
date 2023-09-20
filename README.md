@@ -23,6 +23,7 @@
 - 📄 Know about my experiences [https://manasdutta.super.site/](https://manasdutta.super.site/)
 
 - ⚡ Fun fact **I am a Techy person**
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
