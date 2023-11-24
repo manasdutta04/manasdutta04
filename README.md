@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> </p>
 
-- 🔭 I’m currently work **as a Student**
+- 🔭 Currently I’m **pursing B.Tech In CSE**
 
-- 🌱 I’m currently learning **C, C++, Java, Python**
+- 🌱 I’m currently learning **C, Python, HTML, CSS & JS**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/manasdutta04)
 
@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/manasdutta04**
 
-- 📄 Know about my experiences [https://manasdutta.super.site/](https://manasdutta.super.site/)
+- 📄 Know about my experiences [https://manasdutta-bio.super.site/](https://manasdutta-bio.super.site/)
 
-- ⚡ Fun fact **I am a Techy person**
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me:</h3>
