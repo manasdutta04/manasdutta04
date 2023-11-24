@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://x.com/manasdutta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manas_dutta_04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/manasdutta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasdutta04" height="30" width="40" /></a>
-<a href="https://fb.com/manas dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manas dutta" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100050567529329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manas dutta" height="30" width="40" /></a>
 <a href="https://instagram.com/manasdutta.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manas_dutta_04" height="30" width="40" /></a>
 </p>
 
