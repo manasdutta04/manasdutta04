@@ -44,3 +44,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasdutta04&" alt="manasdutta04" /></p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/manasdutta04/manasdutta04/blob/main/github-contribution-grid-snake.svg">
+</p>
