@@ -15,11 +15,9 @@
 
 - 🔭 Currently I’m **pursuing B.Tech In CSE**
 
-- 🌱 I’m currently learning **C, Python, HTML, CSS & JS**
+- 🌱 I’m currently learning **C, Python, Java, HTML, CSS & JS**
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/manasdutta04)
-
-- 🤝 I’m looking for help with **Coding**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manasdutta04](https://github.com/manasdutta04)
 
@@ -27,7 +25,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/manasdutta04**
 
-- 📄 Know about my experiences [https://manasdutta-bio.super.site/](https://manasdutta-bio.super.site/)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -45,13 +42,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manasdutta04&show_icons=true&locale=en&layout=compact" alt="manasdutta04" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manasdutta04&show_icons=true&locale=en" alt="manasdutta04" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manasdutta04&" alt="manasdutta04" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manasdutta04" alt="manasdutta04" /></a> </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
