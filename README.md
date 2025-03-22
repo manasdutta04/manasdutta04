@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Tech & Code**
 
-- 📫 How to reach me **workwithmanas@outlook.com**
+- 📫 How to reach me **reachout.manasdutta@gmail.com**
 
 
 
