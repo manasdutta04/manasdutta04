@@ -10,16 +10,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> </p>
 
-<p align="right"> <a href="https://github.com/manasdutta04" target="blank"><img src="https://img.shields.io/twitter/follow/manasdutta04?logo=twitter&style=for-the-badge" alt="manasdutta04" /></a> </p>
+<p align="right"> <a href="[https://www.linkedin.com/in/manasdutta04](https://www.linkedin.com/in/manasdutta04)" target="blank"><img src="https://img.shields.io/twitter/follow/manasdutta04?logo=github&style=for-the-badge" alt="Manas Dutta" /></a> </p>
 
 
 - 🔭 Currently I’m **pursuing B.Tech In CSE**
 
 - 🌱 I’m currently learning **C, Python, Java, HTML, CSS & JS**
 
-- 👯 I’m looking to collaborate on [Github](https://github.com/manasdutta04)
+- 👯 I’m looking to collaborate on [Github](https://github.com/manasdutta04), [Gitlab](https://gitlab.com/manasdutta04), [Bitbucket](https://bitbucket.org/manasdutta04)
 
-- 👨‍💻 All of my projects are available at [https://github.com/manasdutta04](https://github.com/manasdutta04)
+- 👨‍💻 All of my projects are available at [https://github.com/manasdutta04](https://github.com/manasdutta04), [https://gitlab.com/manasdutta04](https://gitlab.com/manasdutta04), [https://bitbucket.org/manasdutta04](https://bitbucket.org/manasdutta04)
 
 - 💬 Ask me about **Tech & Code**
 
