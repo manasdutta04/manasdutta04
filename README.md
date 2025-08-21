@@ -1,4 +1,7 @@
-![logo](https://github.com/manasdutta04/manasdutta04/blob/main/manas_dutta.png)
+<p align="center">
+<img src="https://github.com/manasdutta04/manasdutta04/blob/main/manas.gif">
+</p>
+  
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Manas Dutta </h3></h1>
 <h3 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">   Software Developer || TECB'26  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></h3>
 
