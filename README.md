@@ -1,42 +1,17 @@
-<p align="center">
-<img src="https://github.com/manasdutta04/manasdutta04/blob/main/manas.gif">
-</p>
-  
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Manas Dutta </h3></h1>
-<h3 align="center"><img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">   Software Developer || TECB'26  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></h3>
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmanasdutta04b3939.png?alt=media)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!+..&hearts;++;Self-taught+Disciple,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> </p>
-
-<p align="right"> <a href="[https://www.linkedin.com/in/manasdutta04](https://www.linkedin.com/in/manasdutta04)" target="blank"><img src="https://img.shields.io/twitter/follow/manasdutta04?logo=github&style=for-the-badge" alt="Manas Dutta" /></a> </p>
-
-
-- 🔭 Currently I’m **pursuing B.Tech In CSE**
-
-- 🌱 I’m skilled in **C, Python, Java, HTML, CSS & JS**
-
-- 👯 I’m looking to collaborate on **Innovation**
-
-- 👨‍💻 All of my projects are available at [https://github.com/manasdutta04](https://github.com/manasdutta04), [https://bitbucket.org/manasdutta04](https://bitbucket.org/manasdutta04)
-
-- 💬 Ask me about **Tech & Code**
-
-- 📫 How to reach me **reachout.manasdutta@gmail.com**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></p>
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/manasdutta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manas_dutta_04" height="30" width="40" /></a>
+<a href="mailto:reachout.manasdutta@gmali.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Manas Dutta" height="25" width="30" /></a>
+<a href="https://x.com/manasdutta04" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="manasdutta04" height="50" width="45" /></a>
 <a href="https://linkedin.com/in/manasdutta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasdutta04" height="30" width="40" /></a>
-<a href="https://instagram.com/manasdutta.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manas_dutta_04" height="30" width="40" /></a>
+<a href="https://instagram.com/manasdutta.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manasdutta.in" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,8 +21,6 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-
----
 <p align="center">
 <img src="https://github.com/manasdutta04/manasdutta04/blob/main/github-contribution-grid-snake.svg">
 </p>
