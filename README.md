@@ -1,4 +1,5 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmanasdutta04b3939.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmanasdutta046d3a3.png?alt=media)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></p>
 
