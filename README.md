@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:hello@manasdutta.in" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Manas Dutta" height="25" width="30" /></a>
+<a href="mailto:hey@manasdutta.in" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Manas Dutta" height="25" width="30" /></a>
 <a href="https://x.com/manasdutta04" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="manasdutta04" height="50" width="45" /></a>
 <a href="https://linkedin.com/in/manasdutta04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manasdutta04" height="30" width="40" /></a>
 <a href="https://instagram.com/manasdutta.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manasdutta.in" height="30" width="40" /></a>
