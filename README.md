@@ -1,11 +1,9 @@
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmanasdutta046d3a3.png?alt=media)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></p>
-
+[![An image of @manasdutta04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manasdutta04)](https://holopin.io/@manasdutta04)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasdutta04&label=Profile%20views&color=0e75b6&style=flat" alt="manasdutta04" /> <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:hey@manasdutta.in" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Manas Dutta" height="25" width="30" /></a>
