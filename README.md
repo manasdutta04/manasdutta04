@@ -1,4 +1,4 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmanasdutta046d3a3.png?alt=media)
+![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fmanasdutta04076b1.png?alt=media)
 
 [![An image of @manasdutta04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manasdutta04)](https://holopin.io/@manasdutta04)
 
